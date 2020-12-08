@@ -7,7 +7,6 @@ import {
     NavItem,
     NavLink,
     NavbarToggler,
-    NavbarText
 } from 'reactstrap';
 
 import { Link } from 'react-router-dom';
