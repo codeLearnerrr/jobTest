@@ -1,4 +1,3 @@
-import './App.css';
 
 import { NavigationBar } from './components/NavigationBar';
 import { Spaceships } from './components/Spaceships';

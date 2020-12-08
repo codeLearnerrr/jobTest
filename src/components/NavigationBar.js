@@ -38,7 +38,7 @@ export const NavigationBar = () => {
                             </NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink href="https://github.com/reactstrap/reactstrap">GitHub</NavLink>
+                            <NavLink href="https://github.com/codeLearnerrr/jobTest.git">GitHub</NavLink>
                         </NavItem>
                     </Nav>
                 </Collapse>
